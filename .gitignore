@@ -12,6 +12,9 @@ local.properties
 .settings/
 target/
 .loadpath
+.mvn/
+mvnw
+mvnw.cmd
 
 *.py
 
