@@ -10,7 +10,7 @@ import org.apache.commons.logging.LogFactory;
 public class HelloController {
 
 		
-		private static final Log LOGGER = LogFactory.getLog(ExampleController.class);
+		private static final Log LOGGER = LogFactory.getLog(HelloController.class);
 
 	@RequestMapping("/log")
 	public String log() {
