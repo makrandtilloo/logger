@@ -14,6 +14,8 @@ public class HelloController {
 	@RequestMapping("/hi")
 	public String hi() {
 		
+		
+		
 		return "reached hi\n";
 	}
 
